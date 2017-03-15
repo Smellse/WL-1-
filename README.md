@@ -20,7 +20,7 @@
 		<ul> 
     		<li> Ahorn </li> <img src="https://upload.wikimedia.org/wikipedia/commons/f/f4/Ahorn-Blatt-2005-10-05.jpg" />
     		<li> Buche </li> <img src="http://www.urlaub-im-altmuehltal.de/stadt-beilngries/beilngries/waldlehrpfad/buche.jpg" />
-    		<li> Tanne </li> <img src="https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSZ_aTIIM4ZqU7u1fIV8Y_ClNvMLrZY7rSHuST4BmRhaav7SWhX.jpg" />
+    		<li> Tanne </li> <img src="http://www.sagenpfad.at/stationen/B02_Tanne/images/baum_gro%C3%9F.jpg />
 		</ul>
         <p style="color: grey; font-size:8px"> Zur weiteren Information <a href="http://www.baumkunde.de/haeufigste-baeume-deutschland.php"></a></p>
 </body>
